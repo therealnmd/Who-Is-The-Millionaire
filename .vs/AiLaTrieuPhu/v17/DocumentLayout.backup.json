@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{BA2B41C4-918C-DA64-EE8D-0752DDE44268}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA2B41C4-918C-DA64-EE8D-0752DDE44268}|Assembly-CSharp.csproj|e:\\unity\\ailatrieuphu\\assets\\scenes\\textui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA2B41C4-918C-DA64-EE8D-0752DDE44268}|Assembly-CSharp.csproj|E:\\Unity\\AiLaTrieuPhu\\assets\\scenes\\textui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA2B41C4-918C-DA64-EE8D-0752DDE44268}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\textui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,9 +26,9 @@
               "Title": "GameManager.cs",
               "DocumentMoniker": "E:\\Unity\\AiLaTrieuPhu\\Assets\\Scenes\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\GameManager.cs",
-              "ToolTip": "E:\\Unity\\AiLaTrieuPhu\\Assets\\Scenes\\GameManager.cs*",
-              "RelativeToolTip": "Assets\\Scenes\\GameManager.cs*",
-              "ViewState": "AgIAACsAAAAAAAAAAAAiwDAAAAA4AAAAAAAAAA==",
+              "ToolTip": "E:\\Unity\\AiLaTrieuPhu\\Assets\\Scenes\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scenes\\GameManager.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAADgv4IAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T13:41:12.051Z",
               "EditorCaption": ""
